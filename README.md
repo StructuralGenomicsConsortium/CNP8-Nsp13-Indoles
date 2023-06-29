@@ -18,7 +18,7 @@ Professor Matthew Todd, University College London. Head of Chemistry Networks at
  
 
 [Pharma Champion](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki/Pharma-Industry-Champions): Vacant.    
-The [Sir James Murray Student Champion](https://www.thesgc.org/sgc-open-chemistry-networks/champions-program): Anna Girtle (UCL) @AnnaGirtle  
+The [Sir James Murray Student Champion](https://www.thesgc.org/sgc-open-chemistry-networks/champions-program): vacant
 
 Other Contributors To Date:  
 
