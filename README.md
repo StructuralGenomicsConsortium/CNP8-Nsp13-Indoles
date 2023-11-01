@@ -16,7 +16,6 @@ Professor Matthew Todd, University College London. Head of Chemistry Networks at
 Dr Álvaro Magalhães, University College London (synthetic chemistry) [@alvaro-magalhaes](https://github.com/alvaro-magalhaes)  
 Dr Anwar Hossain, University of North Carolina [@ahsgc](https://github.com/ahsgc)
 
-(add others from UNC!)
  
 
 [Pharma Champion](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki/Pharma-Industry-Champions): Vacant.    
