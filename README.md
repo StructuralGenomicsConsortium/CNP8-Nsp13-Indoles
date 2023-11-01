@@ -13,7 +13,7 @@ If you'd like to contact someone to talk about contributing, then write somethin
 
 Some humans involved in this CNP:  
 Professor Matthew Todd, University College London. Head of Chemistry Networks at the SGC (medchem) [@mattodd](https://github.com/mattodd)  
-Dr Álvaro Magalhães, University College London (synthetic chemistry)  @alvaro-magalhaes  
+Dr Álvaro Magalhães, University College London (synthetic chemistry) [@alvaro-magalhaes](https://github.com/alvaro-magalhaes)  
 
 (add others from UNC!)
  
