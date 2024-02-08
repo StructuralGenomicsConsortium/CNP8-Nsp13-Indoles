@@ -1,5 +1,5 @@
 # CNP8-Nsp13-Indoles
-An [SGC](https://www.thesgc.org/) Open Chemistry Networks Project (number 8) dedicated to finding hits vs SARS-CoV-2 Nsp13 based on a hit containing an indole.
+An [SGC](https://www.thesgc.org/) Open Chemistry Networks Project (number 8) dedicated to finding hits vs SARS-CoV-2 Nsp13 based on a hit reported in the literature containing an indole.
 
 You contribute synthetic chemistry and in return the SGC offers biology. Together we can generate tool compounds to understand biology and validate drug targets to help cure disease. Everything is open, with all content governed by a CC-BY-4.0 licence.
 
